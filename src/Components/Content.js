@@ -210,7 +210,7 @@ const News = ({ data }) => {
               </div>
               <div className='intern'>
                 <h3>IT Boomi Innovations - Tiruppur</h3>
-                <h5>3 June 2024 - Present | Full Stack Developer</h5>
+                <h5>3 June 2024 - April 2025 | Full Stack Developer</h5>
                 <h6>MERN | Problem Solving | Admin Dashboard</h6>
                 <h6>CRUD | Authentication | Analytics | State Management</h6>
                 <p>During my full stack development internship focusing on the MERN stack, I initially concentrated on front-end development to build a strong foundation, as I was new to the field. Over time, I expanded my skills to include backend development and explored various frameworks and tools. This strategic progression allowed me to gain a comprehensive understanding of the full stack development lifecycle — from designing intuitive user interfaces to building robust server-side logic and managing databases.</p>
